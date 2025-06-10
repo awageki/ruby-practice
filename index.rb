@@ -1,2 +1,1 @@
-userName = 'test'
-p userName
+user_name = 'test'
