@@ -1,10 +1,12 @@
-<!-- I want to review in Japanese. -->
+
 
 ## 内容
 
 ## 補足
 
 ---
+
+<!-- I want to review in Japanese. -->
 
 <!-- for GitHub Copilot review rule -->
 
