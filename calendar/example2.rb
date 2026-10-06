@@ -22,7 +22,7 @@ class Calendar
     this_year = @target_date.year
     this_month = @target_date.month
     first_day = Date.new(this_year, this_month, 1)
-    last_day = Date.new(this_month, this_month, -1)
+    last_day = Date.new(this_year, this_month, -1)
 
     # 冒頭の空白部分
     first_wday = first_day.wday # wday: 曜日を返す（0-6、日曜が0）
